@@ -73,7 +73,7 @@ if __name__ == "__main__":
             codePath1 = "C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
             os.startfile(codePath1)
 
-        elif 'open python' in query:
+        elif 'open pycharm' in query:
             codePath2 = "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JetBrains\PyCharm Community Edition 2021.3.lnk"
             os.startfile(codePath2)
         
